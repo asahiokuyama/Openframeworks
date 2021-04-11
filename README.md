@@ -1,5 +1,5 @@
 # Openframeworks
 <br>
-openframeworksの作品集。
+openframeworks.
 <br>
 sfc授業_グラフィックプログラミング
